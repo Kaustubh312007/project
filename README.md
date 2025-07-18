@@ -1,4 +1,4 @@
 # project
 first repository
 <br>
-author-kaustubhdoke
+Author-kaustubhdoke
